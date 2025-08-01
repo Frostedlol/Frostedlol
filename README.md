@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frostedlol&label=Profile%20views&color=0e75b6&style=flat" alt="frostedlol" /> </p>
 
-- 🔭 I’m currently working on **React project (elmeri)**
-
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **vilppe99@gmail.com**
